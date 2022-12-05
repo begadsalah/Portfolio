@@ -40,6 +40,7 @@ import logo4 from "../assets/BEJAD.png";
 import logo5 from "../assets/logo5.png";
 import pp from "../assets/pp.png";
 import pp3 from "../assets/pp3.png";
+import pp4 from "../assets/pp4.png";
 export default {
   email,
   mobile,
@@ -80,4 +81,5 @@ export default {
   logo5,
   pp,
   pp3,
+  pp4,
 };
